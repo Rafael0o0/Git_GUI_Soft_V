@@ -7,6 +7,7 @@ ventana.configure(bg="#1e3a5f")
  
 ventana.mainloop()
 
+
 from tkinter import messagebox
  
 def mostrar_mensaje():
