@@ -18,7 +18,7 @@ ventana.resizable(False, False)
 def mostrar_mensaje():
     messagebox.showinfo(
         "Mensaje",
-        "Hola, este es un proyecto de ejemplo para Git GUI."
+        "Holaa, este es un proyecto de ejemplo para Git GUI."
     )
 
 
@@ -31,7 +31,7 @@ def saludar():
         )
     else:
         etiqueta_resultado.configure(
-            text=f"Hola, {nombre}! Bienvenido."
+            text=f"Holaa, {nombre}! Bienvenido."
         )
 
 
